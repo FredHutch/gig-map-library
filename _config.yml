@@ -5,7 +5,7 @@ description: "Collection of interactive pan-genomes featuring collections of mic
 logo: 'assets/images/gig-map-logos_black.png'
 favicon: 'assets/images/gig-map-logos_black.png'
 baseurl: 
-google_analytics: GTM-5GGQV3B
+google_analytics: G-29Q7TYGMZY
 include: ["_pages"]
 permalink: /:title/
 
