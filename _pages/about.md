@@ -32,7 +32,8 @@ software tool. This tool can be used to download a collection of genomes from so
 [NCBI](https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/) and identify which genomes contain
 each of the unique genes found in this group. The _gig-map_ software is built using the powerful
 [Nextflow](https://nextflow.io/) workflow management system, with the [DIAMOND](https://github.com/bbuchfink/diamond)
-aligner and [Plotly](https://plotly.com/) for rendering the display.
+aligner and [Plotly](https://plotly.com/) for rendering the display. This website was built with Jekyll
+using the Mediumish template.
 
 #### How do I use them?
 
@@ -53,6 +54,24 @@ in the map. Double-clicking the display will reset the zoom and show the full ra
 
 #### Useful Features
 
+- Zoom in on a region of the map by clicking and dragging
+- Dragging vertically will expand a subset of genomes
+- Dragging horizontally will expand a subset of genes
+- Moving the cursor over the display will show information about individual genes and genomes
+- Save a snapshot by clicking the camera icon in the top-right corner
+- Click the home icon to reset the display
+- The control buttons at the top-right let you switch to a panning mode, in which clicking and dragging will move the zoomed region
+- The dendrogram (tree) can be zoomed horizontally in an independent manner
+
 #### Learning More
 
+For a longer explanation of the scientific approach used to generate these interactive maps, please
+watch this video. All of the maps shown in the video are also available in the library.
+
 #### Contact Us
+
+To learn more about this project, please don't hesitate to be in touch:
+
+Sam Minot, Ph.D.
+Email: first initial and last name at fredhutch dot org
+Twitter: @sminot
