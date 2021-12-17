@@ -75,5 +75,7 @@ watch this video. All of the maps shown in the video are also available in the l
 To learn more about this project, please don't hesitate to be in touch:
 
 Sam Minot, Ph.D.
+
 Email: first initial and last name at fredhutch dot org
+
 Twitter: @sminot
