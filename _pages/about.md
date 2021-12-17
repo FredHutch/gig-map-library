@@ -49,6 +49,8 @@ level of resolution. By zooming in further you can see more of the individual ge
 group of genomes. Moving the cursor around the display will also reveal the gene/genome name for each point
 in the map. Double-clicking the display will reset the zoom and show the full range of the map.
 
+![](assets/images/ezgif-7-889f062487.gif)
+
 #### Useful Features
 
 #### Learning More
