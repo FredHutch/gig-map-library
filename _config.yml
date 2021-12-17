@@ -1,7 +1,7 @@
 # Site
-name: "Gig-Map Library"
-title: "Gig-Map Library"
-description: "Library of microbial pan-genomes."
+name: "Interactive Pan-Genome Library"
+title: "Interactive Pan-Genome Library"
+description: "Collection of interactive pan-genomes featuring collections of microbes."
 logo: 'assets/images/gig-map-logos_black.png'
 favicon: 'assets/images/gig-map-logos_black.png'
 baseurl: 
