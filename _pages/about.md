@@ -32,8 +32,8 @@ software tool. This tool can be used to download a collection of genomes from so
 [NCBI](https://www.ncbi.nlm.nih.gov/genome/browse#!/prokaryotes/) and identify which genomes contain
 each of the unique genes found in this group. The _gig-map_ software is built using the powerful
 [Nextflow](https://nextflow.io/) workflow management system, with the [DIAMOND](https://github.com/bbuchfink/diamond)
-aligner and [Plotly](https://plotly.com/) for rendering the display. This website was built with Jekyll
-using the Mediumish template.
+aligner and [Plotly](https://plotly.com/) for rendering the display. This website was built with 
+[Jekyll](https://jekyllrb.com/) using the [Mediumish](https://jekyllthemes.io/theme/mediumish) theme.
 
 #### How do I use them?
 
@@ -67,6 +67,8 @@ in the map. Double-clicking the display will reset the zoom and show the full ra
 
 For a longer explanation of the scientific approach used to generate these interactive maps, please
 watch this video. All of the maps shown in the video are also available in the library.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_pXII2s-cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Contact Us
 
