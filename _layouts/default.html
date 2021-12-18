@@ -127,11 +127,6 @@
 ================================================== -->
 <div class="jumbotron fortags">
 	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center text-center h-100">
-            <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
-            </div>
-		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
@@ -153,10 +148,13 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+            <div class="col-md-4 col-sm-4 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+            <div class="col-md-4 col-sm-4 text-center text-lg-center">    
+                Photo by <a href="https://unsplash.com/@mohamadaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mohammad Alizade</a> on <a href="https://unsplash.com/s/photos/outdoor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+            </div>
+            <div class="col-md-4 col-sm-4 text-center text-lg-right">    
                 <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
             </div>
         </div>
