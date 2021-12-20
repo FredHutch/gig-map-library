@@ -4,7 +4,7 @@ title: "Interactive Pan-Genome Library"
 description: "Collection of interactive pan-genomes featuring collections of microbes."
 logo: 'assets/images/gig-map-logos_black.png'
 favicon: 'assets/images/gig-map-logos_black.png'
-baseurl: 
+url: https://fredhutch.github.io/gig-map-library
 include: ["_pages"]
 permalink: /:title/
 
